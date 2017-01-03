@@ -1,0 +1,49 @@
+	.navbar-brand{
+   			font-size:1.8em;
+   			
+   		}
+   		
+
+ 
+   		#topRow {
+   			margin-top:100px;
+   			text-align:center;	
+   		}
+   
+   		#topRow h1{
+   			font-size:300%;
+   
+   		}
+   		
+   		.bold{
+   			font-weight:bold;
+   			
+   		}
+   
+   		.marginTop{
+   			margin-top:30px;
+   		
+   		}
+   		
+   		.center{
+   			text-align:center;
+   		
+   		}
+   		
+   		.title {
+   			margin-top:100px;
+   			font-size:300%;
+   			
+   		}
+   		
+   		
+
+   		
+   		.appstoreImage{
+   			width:250px;
+   		
+   		}
+
+		#btndel{
+				margin-top:7px;
+				}
